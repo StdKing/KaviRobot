@@ -4,8 +4,8 @@ jikanpy
 beautifulsoup4
 bs4
 requests==2.20.0
-sqlalchemy
-python-telegram-bot==12.0.0
+sqlalchemy==1.4.40
+python-telegram-bot==12.8
 psycopg2-binary
 youtube_dl
 feedparser
@@ -27,7 +27,7 @@ pyrogram
 pytz
 gtts
 geopy
-telethon==1.16.4
+telethon
 mtranslate
 fontTools
 nekos.py
