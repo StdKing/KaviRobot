@@ -33,7 +33,7 @@
       },
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "1572358619"
+         "value": "5842298151"
       },
       "OWNER_USERNAME": {
          "description": "Your username",
@@ -50,7 +50,7 @@
       },
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
-         "value": "5556126680 5399406295"
+         "value": "5842298151 1808943146"
       },
       "SUPPORT_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
@@ -63,10 +63,10 @@
       },
       "TOKEN": {
          "description": "Your bot token.",
-         "value": ""
+         "value": "6032734033:AAEeDDPV4BQHIbwJO0K5o6FWo8kQ7k1dVjc"
       },
       "URL": {
-         "description": "The Heroku App URL :-  https://<appname>.herokuapp.com/",
+         "description": "The Heroku App URL :-  https://kavirobot.herokuapp.com/",
          "required": false,
          "value": ""
       },
